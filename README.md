@@ -1,4 +1,9 @@
-# 🛠️ Sensores e Módulos Arduino - Guia Prático
+<header>
+<h2> 🛠 Sensores e Módulos Arduino - Guia Prático 
+<img src="https://img.shields.io/badge/READ%20ME-555555" alt="ReadMe" align="right"  width="q35">
+</h2>
+</header>
+
 
 Este repositório contém um guia prático com resumos e exemplos de uso dos principais sensores e módulos compatíveis com Arduino. Ideal para projetos de iniciação científica, competições e aprendizado em eletrônica embarcada.
 
@@ -291,3 +296,13 @@ void loop() {
   // Atualizações dinâmicas aqui
 }
 ```
+
+## Licença
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Autores
+- Gabriel Volpato
+
+## Contato
+Para suporte ou dúvidas, entre em contato pelo email: volpatocursin@outlook.com 
+<img src="https://github.com/GabrielVolpatoP/GabrielVolpatoP/blob/main/imagens/Duck__icon.svg?raw=true" alt="Icon Usuario" align="right"  width="60">
