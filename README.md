@@ -4,10 +4,42 @@
 </h2>
 </header>
 
-
 Este repositório contém um guia prático com resumos e exemplos de uso dos principais sensores e módulos compatíveis com Arduino. Ideal para projetos de iniciação científica, competições e aprendizado em eletrônica embarcada.
 
-## 📚 Sumário
+
+## Checklist de Bibliotecas Necessárias
+
+Estas bibliotecas são requeridas para executar os exemplos fornecidos neste repositório. Instale-as via Arduino IDE:
+
+### 1. Biblioteca DHT
+
+- Nome: ```DHT sensor library```
+- Autor: Adafruit
+
+### 2. Biblioteca MFRC522
+
+- Nome: ```MFRC522```
+- Autor: Github Community / Miguel Balboa
+
+### 3. Biblioteca Adafruit HMC5883L (Bússola GY-271)
+
+- Nome: ```Adafruit HMC5883 Unified```
+- Autor: Adafruit
+
+### 4. Biblioteca LiquidCrystal I2C
+
+- Nome: ```LiquidCrystal I2C```
+- Autor: Frank de Brabander ou similar
+
+
+> [!IMPORTANT]\
+> **Instalação:**
+>  - Vá em: Sketch > Incluir Biblioteca > Gerenciar Bibliotecas...
+>  - Busque pelo nome da Biblioteca
+>  - Instale a versão mais recente
+
+
+## Sumário
 
 - [Sensor Ultrassônico HC-SR04](#sensor-ultrassônico-hc-sr04)
 - [Sensor de Temperatura LM35](#sensor-de-temperatura-lm35)
